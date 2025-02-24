@@ -1,4 +1,4 @@
-(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["static/chunks/_ac5e2a._.js", {
+(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["static/chunks/ac5e2a._.js", {
 
 "[project]/app/page.tsx [app-client] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
@@ -2087,4 +2087,4 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$re
 }}),
 }]);
 
-//# sourceMappingURL=_ac5e2a._.js.map
+//# sourceMappingURL=ac5e2a._.js.map

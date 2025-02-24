@@ -1,4 +1,4 @@
-(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["static/chunks/_22d2ba._.js", {
+(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["static/chunks/22d2ba._.js", {
 
 "[project]/app/favicon.ico.mjs { IMAGE => \"[project]/app/favicon.ico [app-rsc] (static)\" } [app-rsc] (structured image object, ecmascript, Next.js server component, client modules)": ((__turbopack_context__) => {
 
@@ -2175,4 +2175,4 @@ NameSpace[_metadataconstants.OUTLET_BOUNDARY_NAME.slice(0)]; //# sourceMappingUR
 }}),
 }]);
 
-//# sourceMappingURL=_22d2ba._.js.map
+//# sourceMappingURL=22d2ba._.js.map
