@@ -653,6 +653,10 @@ img, video {
   outline-offset: 2px;
 }
 
+.nextjs-toast-errors-parent {
+  display: none; /* or visibility: hidden; */
+}
+
 :root {
   --background: #fff;
   --foreground: #171717;
